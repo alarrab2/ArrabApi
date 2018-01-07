@@ -10,11 +10,11 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/alarrab2/arrabapi
+git clone https://github.com/alarrab2/arrab
 
 • انتر وراه حط •
 
-cd arrabapi
+cd arrab
 
 • وانتر وراه حط •
 
@@ -28,7 +28,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/alarrab2/arrabapi && cd ararrab& chmod +x install.sh && ./install.sh
+git clone https://github.com/alarrab2/arrab && cd arrab& chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
